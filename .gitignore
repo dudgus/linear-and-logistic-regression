@@ -1,4 +1,5 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
-basic-tensorflow/.idea
+# PyCharm IDE
+.idea/

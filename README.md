@@ -18,3 +18,15 @@
 
 ## Downloads
 - All: https://github.com/nextco/linear-and-logistic-regression/archive/master.zip
+
+## Install Requirements
+```shell
+pip install -r requirements.txt
+```
+
+## Extra info
+To save requirements.txt on Anaconda Windows
+```shell
+pip install pipreqs
+pipreqs --encoding=utf-8 --force .
+```
